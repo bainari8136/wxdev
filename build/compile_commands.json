@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Victor GM/wxdev/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE -D__WXMSW__ @CMakeFiles/WXDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\WXDev.dir\\main.cpp.obj -c \"C:\\Users\\Victor GM\\wxdev\\main.cpp\"",
+  "file": "C:/Users/Victor GM/wxdev/main.cpp",
+  "output": "CMakeFiles/WXDev.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Victor GM/wxdev/build/services",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/service_module.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\service_module.dir\\OpenSSLService.cpp.obj -c \"C:\\Users\\Victor GM\\wxdev\\services\\OpenSSLService.cpp\"",
+  "file": "C:/Users/Victor GM/wxdev/services/OpenSSLService.cpp",
+  "output": "services/CMakeFiles/service_module.dir/OpenSSLService.cpp.obj"
+},
+{
+  "directory": "C:/Users/Victor GM/wxdev/build/app",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/app_module.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\app_module.dir\\SSLVersion.cpp.obj -c \"C:\\Users\\Victor GM\\wxdev\\app\\SSLVersion.cpp\"",
+  "file": "C:/Users/Victor GM/wxdev/app/SSLVersion.cpp",
+  "output": "app/CMakeFiles/app_module.dir/SSLVersion.cpp.obj"
+},
+{
+  "directory": "C:/Users/Victor GM/wxdev/build/ui",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ui_module.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ui_module.dir\\Frame.cpp.obj -c \"C:\\Users\\Victor GM\\wxdev\\ui\\Frame.cpp\"",
+  "file": "C:/Users/Victor GM/wxdev/ui/Frame.cpp",
+  "output": "ui/CMakeFiles/ui_module.dir/Frame.cpp.obj"
+}
+]

@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libapp_module.a CMakeFiles/app_module.dir/SSLVersion.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libapp_module.a

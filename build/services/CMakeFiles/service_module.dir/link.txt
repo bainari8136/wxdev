@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libservice_module.a CMakeFiles/service_module.dir/OpenSSLService.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libservice_module.a

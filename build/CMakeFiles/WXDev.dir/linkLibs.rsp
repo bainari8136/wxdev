@@ -1,0 +1,1 @@
+ ui/libui_module.a app/libapp_module.a services/libservice_module.a C:/msys64/mingw64/lib/libcrypto.dll.a "C:/wxWidgets-3.3.1/lib/gcc_dll/libwxbase33u.a" "C:/wxWidgets-3.3.1/lib/gcc_dll/libwxmsw33u_core.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

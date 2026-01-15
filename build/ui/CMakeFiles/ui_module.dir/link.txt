@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libui_module.a CMakeFiles/ui_module.dir/Frame.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libui_module.a
