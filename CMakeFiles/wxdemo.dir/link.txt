@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\wxdemo.dir/objects.a
-C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\wxdemo.dir/objects.a @CMakeFiles\wxdemo.dir\objects1.rsp
-C:\TDM-GCC-64\bin\c++.exe -mwindows -Wl,--whole-archive CMakeFiles\wxdemo.dir/objects.a -Wl,--no-whole-archive -o wxdemo.exe -Wl,--out-implib,libwxdemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\wxdemo.dir\linkLibs.rsp

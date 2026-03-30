@@ -1,3 +1,0 @@
-C:/Users/Victor GM/wxdev/CMakeFiles/wxdemo.dir
-C:/Users/Victor GM/wxdev/CMakeFiles/edit_cache.dir
-C:/Users/Victor GM/wxdev/CMakeFiles/rebuild_cache.dir
